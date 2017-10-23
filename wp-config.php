@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'profile');
+define('DB_NAME', 'sql12200837');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'sql12200837');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'WtP7ZwxVBZ');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'sql12.freemysqlhosting.net');
 
 /** Database Charset to use in creating database tables. */
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET', 'utf8');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '!*suT_fr40-cUEc2%+~<;iz~BGpf_y~M8pi,S]FWpIdtWZ}9jqZzco8i`ksU%`;_');
-define('SECURE_AUTH_KEY',  'rNva8{|!QsnJZQNi)(_Tf(&J56?RC;tfBDv3(WS@VnL cb#{nn$qzFIAGicH;ONL');
-define('LOGGED_IN_KEY',    ',hyw`h9nY^;;{1BXv9y[A%vlmSW_r36*<=S%K^QVIbRtPk5$&P8d1Av|=)v9`oTg');
-define('NONCE_KEY',        'Y!}k6zih`t7Z0UD]=tfv/n&<aCNe/!jKDY=e9x_j7*1:cCt((_Yu) P 6sx,Cb!]');
-define('AUTH_SALT',        'tT V}~nBl*8enPmD3t{f+i6y98BM~0-o[WEGmy.QT6a!]Z]sX0HG@KJ)8M~]ha3)');
-define('SECURE_AUTH_SALT', 'JMpaGB|hiD?M8%R4gKu0MZ}:wKaMQkz`DrZ:;1 G|#hL.qNEz&_Y[0/AnI`?YGJ.');
-define('LOGGED_IN_SALT',   'r-#!_fe68Z U:ptV#Zf_3|tUpE5@p-HU .$ol%B,PCL8 Y.yi5l^ *Cc!Hr)@To_');
-define('NONCE_SALT',       't(-lbS<9X3H>!P86F5Q, }~vZp)MC)jKng{k`gF|-nq}o2[@PXk]8ji)nhaDBnnx');
+define('AUTH_KEY',         'put your unique phrase here');
+define('SECURE_AUTH_KEY',  'put your unique phrase here');
+define('LOGGED_IN_KEY',    'put your unique phrase here');
+define('NONCE_KEY',        'put your unique phrase here');
+define('AUTH_SALT',        'put your unique phrase here');
+define('SECURE_AUTH_SALT', 'put your unique phrase here');
+define('LOGGED_IN_SALT',   'put your unique phrase here');
+define('NONCE_SALT',       'put your unique phrase here');
 
 /**#@-*/
 
